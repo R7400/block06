@@ -1,0 +1,11 @@
+.food-list{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+img{
+    display: inline-block;
+    width: 200px;
+    padding: 12px;
+    vertical-align: middle;
+}
